@@ -4,7 +4,7 @@ go 1.18
 
 require (
 	github.com/blocktree/go-owcdrivers v1.2.0
-	github.com/ethereum/go-ethereum v1.10.17
+	github.com/ethereum/go-ethereum v1.10.19
 	github.com/go-resty/resty/v2 v2.7.0
 	github.com/huandu/xstrings v1.3.2
 	github.com/shopspring/decimal v1.3.1
@@ -15,7 +15,7 @@ require (
 	github.com/StackExchange/wmi v0.0.0-20180116203802-5d049714c4a6 // indirect
 	github.com/blocktree/go-owcrypt v1.1.1 // indirect
 	github.com/btcsuite/btcd v0.22.0-beta // indirect
-	github.com/btcsuite/btcd/btcec/v2 v2.1.2 // indirect
+	github.com/btcsuite/btcd/btcec/v2 v2.2.0 // indirect
 	github.com/deckarep/golang-set v1.8.0 // indirect
 	github.com/decred/dcrd/dcrec/secp256k1/v4 v4.0.1 // indirect
 	github.com/go-ole/go-ole v1.2.1 // indirect
